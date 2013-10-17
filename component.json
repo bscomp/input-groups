@@ -1,0 +1,11 @@
+{
+  "name": "input-groups",
+  "repo": "bscomp/input-groups",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+    "bscomp/mixins":"*",
+    "bscomp/forms":"*"
+  },
+  "styles": ["index.less"]
+}
